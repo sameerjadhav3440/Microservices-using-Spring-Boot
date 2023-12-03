@@ -11,6 +11,8 @@ Created the project using below technologies and concepts, In this project I hav
 7. Retry Module using resilience 4j
 8. Rate Limiter using resilience 4j
 9. Okta Oauth2
+10. MongoDB
+   
 
 
 
